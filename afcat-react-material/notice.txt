@@ -1,0 +1,16 @@
+前端必备：HTML5+css3+js+(es6)+jquery
+前端必备：es6、typeScript、react、vue、小程序
+
+reactdemo01
+    node_modules
+    public
+        favicon.ico   网站图标，标签页左边的小图标
+        index.html    项目的入口文件 页面
+        manifest.json    是PWA提供的一项重要功能，允许将站点添加至主屏幕
+    src
+        index.js   入口文件。
+            react.js是核心库
+            react-dom   提供与dom相关功能
+            index.css的引入可以删掉
+    
+    gitignore     git的忽略文件
